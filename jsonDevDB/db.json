@@ -1,0 +1,104 @@
+{
+    "venues": [
+        {
+            "id": "73a67858-9f1b-4f46-a0a9-6827655bafc3",
+            "name": "South Park Villa",
+            "description": "Beautifull villa with the characters from South Park enslaved inside forever.",
+            "media": [
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fdonald-trump-has-been-indicted-what-happens-now-2023-03-31%2F&psig=AOvVaw2dBgVQxgDva55PKrQjzXgt&ust=1681401420775000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKj8m83apP4CFQAAAAAdAAAAABAD"
+            ],
+            "price": 200,
+            "maxGuests": 5,
+            "created": "2023-04-13T18:52:25.666Z",
+            "updated": "2023-04-13T18:52:25.666Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            }
+        },
+        {
+            "id": "119997b4-219e-4765-aafa-87433f097aad",
+            "name": "New Zealand",
+            "description": "Beautifull villa area",
+            "media": [
+                "https://www.jonesaroundtheworld.com/wp-content/uploads/2019/07/Getting-Around-Queenstown-.jpg"
+            ],
+            "price": 500,
+            "maxGuests": 5,
+            "created": "2023-04-13T19:06:04.323Z",
+            "updated": "2023-04-13T19:06:04.323Z",
+            "meta": {
+                "wifi": true,
+                "parking": false,
+                "breakfast": true,
+                "pets": true
+            }
+        },
+        {
+            "id": "f6b483ae-8dd8-4b84-b69c-fff8cba162eb",
+            "name": "Newly-built house with sauna",
+            "description": "Now our guest house with a sauna is finally ready for those of you who want to rent a cozy cottage with 6 beds.",
+            "media": [
+                "https://images.app.goo.gl/TGDkFUWTLVbNbmkT7"
+            ],
+            "price": 1200,
+            "maxGuests": 12,
+            "created": "2023-04-12T17:40:36.771Z",
+            "updated": "2023-04-12T17:44:29.932Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            }
+        },
+        {
+            "id": "ab1a45fd-f88e-4fff-8ad4-41829f9aaad4",
+            "name": "Deep in the forrest",
+            "description": "Want to wake up to birds singing? Or maybe want to get a look at the wild animals before you sleep? Then this place is the right one for you and your close ones. You will sleep safe and sound in a well built tree cabin, with all the utilities needed. We offer wifi, secure parking and if you dare you can bring your pets. Disclouser: Bring pets at your own risk.",
+            "media": [
+                "https://www.jonesaroundtheworld.com/wp-content/uploads/2021/02/Unique-Tiny-Home-Airbnb-in-Cabin.jpg",
+                "https://media.architecturaldigest.com/photos/5a30296738bb817b7ffe1b4b/4:3/w_908,h_681,c_limit/Airbnb_Georgia3.jpg",
+                "https://www.wellandgood.com/wp-content/uploads/2018/01/Airbnb-Secluded-Treehouse-Atlanta.jpg",
+                "https://www.messynessychic.com/wp-content/uploads/2019/09/69098391_147040713171168_9018744063128659338_n-930x620.jpg",
+                "https://cdn.thisiswhyimbroke.com/images/woodland-fairy-house-airbnb-640x533.jpg",
+                "https://www.remixmagazine.com/assets/Treehouse__ResizedImageWzYwMCw0MDBd.jpg",
+                "https://weareglobaltravellers.com/wp-content/uploads/2021/03/4ea4cf84-8dec-4e21-847d-695cae74626b.jpg"
+            ],
+            "price": 299,
+            "maxGuests": 5,
+            "created": "2023-04-11T17:55:09.513Z",
+            "updated": "2023-04-11T17:55:09.513Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": true
+            }
+        },
+        {
+            "id": "d3dc4721-324e-46c7-8b56-b9390ccaff66",
+            "name": "Charming Treehouse - Møre & Romsdal, Ålesund",
+            "description": "Welcome to our charming and cozy treehouse available for rent! Nestled among the lush green foliage of a towering tree, this unique and enchanting abode offers a one-of-a-kind experience for nature lovers and adventurers. With a sturdy wooden ladder leading up to the entrance, guests can climb up to the elevated platform and step inside the cozy interior. The rustic decor and warm lighting create a welcoming atmosphere, perfect for snuggling up with a good book or enjoying a cup of coffee while gazing out at the serene surroundings. Equipped with comfortable sleeping arrangements, this treehouse is perfect for a romantic getaway or a family vacation. Wake up to the sounds of chirping birds and rustling leaves, and spend your days exploring the nearby hiking trails or simply relaxing on the deck, taking in the breathtaking views. Our treehouse is also conveniently located just a short drive from local attractions, shops, and restaurants, making it the ideal home base for your next adventure. Book now and experience the magic of living among the trees!",
+            "media": [
+                "https://www.fodors.com/wp-content/uploads/2018/11/5-Out-n-About-Treehouses-Treesort.jpg",
+                "https://1.bp.blogspot.com/-PP9H6lyEhtQ/UDjAox_utQI/AAAAAAAAIFQ/pXYGfbsBLaU/s1600/Amazing_Home_Tree_House_In_The_Forest_Mill_Valley_California_world_of_architecture_worldofarchi_07.jpg",
+                "https://travelaway.me/wp-content/uploads/2015/03/inside-treehouse.jpg",
+                "https://loveincorporated.blob.core.windows.net/contentimages/gallery/dbf61f6d-499d-4692-b20d-d9a573d6d72f-Living-The-Highlife-Childrens-Tree-House-inside.jpg",
+                "https://cdn.decoist.com/wp-content/uploads/2017/11/Kitchen-and-lounge-area-of-the-treehouse.jpg"
+            ],
+            "price": 1200,
+            "maxGuests": 4,
+            "created": "2023-04-11T16:42:55.127Z",
+            "updated": "2023-04-11T16:42:55.127Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": true
+            }
+        }
+    ]
+}
